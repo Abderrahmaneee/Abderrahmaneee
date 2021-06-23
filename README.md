@@ -1,5 +1,5 @@
  <p align="center"> 
-  <img src="code.gif" />
+  <img src="codee.gif" />
 </p>
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
