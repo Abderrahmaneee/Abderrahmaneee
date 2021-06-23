@@ -1,10 +1,10 @@
  <p align="center"> 
-  <img src="codee.gif" />
+  <img src="code.gif" />
 </p>
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <h3>Glad to see you here!</h3>
-<h4>My name is Abderrahmane and I am working as a Web developer.</H4>
+<h1 align="center">My name is Abderrahmane and I am working as a Web developer.</h1>
 <p>When I work on a project, I strive for excellence and 100% client satisfaction.</p>
 ✨-------> Major Skills.<br>
 ⭐----> Front end.<br>
