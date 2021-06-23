@@ -9,10 +9,9 @@
 <div style="display:flex;">
 ✨-------> Major Skills.<br>
 ⭐----> Front end.<br>
---><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40" style="vertical-align:top; margin:4px">, <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" height="40" style="vertical-align:top; margin:4px"><br>
---><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="40" style="vertical-align:top; margin:4px">, <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" height="40" style="vertical-align:top; margin:4px">.<br>
---><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40" style="vertical-align:top; margin:4px">, <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" height="40" style="vertical-align:top; margin:4px">.<br>
+-->HTML & CSS, Preprocessors(SASS and LESS).<br>
+-->Bootstrap, Tailwind.<br>
+-->JavaScript, jQuery.<br>
 -->JS frameworks (including Vue.js, React.js).<br>
 -->RESTful Services and APIs.<br>
 -->100% mobile responsive and animation.<br>
