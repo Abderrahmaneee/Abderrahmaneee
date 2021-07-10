@@ -2,7 +2,7 @@
 <p align="center"> 
   <img src="codeur.gif" />
 </p>
-<h2>Glad to see you here!</h2>
+<h3>Glad to see you here!</h3>
 <h3 align="center">My name is Abderrahmane and I am working as a Web developer.</h3>
 <p>When I work on a project, I strive for excellence and 100% client satisfaction.</p>
 <div style="display:flex;">
