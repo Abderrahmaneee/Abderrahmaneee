@@ -42,7 +42,7 @@
     </a> 
 </p>
 
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmaneee&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="Abderrahmanee" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmaneee&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="Abderrahmanee" /></p><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Abderrahmaneee&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" align="left">
 
 
