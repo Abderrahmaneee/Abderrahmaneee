@@ -1,9 +1,8 @@
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 <p align="center"> 
-  <img src="code.gif" />
+  <img src="codeur.gif" />
 </p>
-
-<h3>Glad to see you here!</h3>
+<h2>Glad to see you here!</h2>
 <h3 align="center">My name is Abderrahmane and I am working as a Web developer.</h3>
 <p>When I work on a project, I strive for excellence and 100% client satisfaction.</p>
 <div style="display:flex;">
