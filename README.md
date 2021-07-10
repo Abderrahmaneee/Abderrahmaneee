@@ -37,11 +37,15 @@
 
 <h2>Glad to see you here!</h2>
 
-💼&nbsp;&nbsp;&nbsp;Web Developer at <a href="https://grupotks.com/">TKS</a>
+- 💻 I’m currently learning about **Backend**
 
-🌱&nbsp;&nbsp;&nbsp;I’m currently learning **VueJS** & **Angular 8+**
+- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
-📫&nbsp;&nbsp;&nbsp;Email me at danielmoyaleiva@gmail.com
+- 💬 Ask me about **HTML , CSS, JavaScript, React, Wordpress**
 
-🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://danimoya.es" target="_blank">danimoya.es</a>
+- 📧 How to reach me? **Connect to me via Email [Abderrahmane](mailto:abderrahmanea091@gmail.com)**
+
+- ⚡ Fun fact: **I love to listen to music**
+
+
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
