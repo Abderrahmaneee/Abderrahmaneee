@@ -2,7 +2,18 @@
 <p align="center">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
+<h2>Glad to see you here!</h2>
 <p>Hi, I'm Abderrahmane, a passionate FrontEnd developer & WordPress Expert .</p>
+
+- 💻 I’m currently learning about **Backend**
+
+- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
+
+- 💬 Ask me about **HTML , CSS, JavaScript, React, Wordpress**
+
+- 📧 How to reach me? **Connect to me via Email [Abderrahmane](mailto:abderrahmanea091@gmail.com)**
+
+- ⚡ Fun fact: **I love to listen to music**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
     <a href="https://www.w3.org/html/" target="_blank"> 
@@ -31,21 +42,9 @@
     </a> 
 </p>
 
-<h2>Glad to see you here!</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=Abderrahmaneee&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" align="right">
 
-- 💻 I’m currently learning about **Backend**
-
-- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
-
-- 💬 Ask me about **HTML , CSS, JavaScript, React, Wordpress**
-
-- 📧 How to reach me? **Connect to me via Email [Abderrahmane](mailto:abderrahmanea091@gmail.com)**
-
-- ⚡ Fun fact: **I love to listen to music**
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abderrahmaneee&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=FF6C00&text_color=000000&icon_color=FF6C00&locale=" align="right">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmaneee&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmaneee&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="Abderrahmanee" /></p>
 
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
