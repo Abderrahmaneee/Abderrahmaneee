@@ -31,10 +31,6 @@
     </a> 
 </p>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abderrahmaneee&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=FF6C00&text_color=000000&icon_color=FF6C00&locale=" align="right">
-
-
 <h2>Glad to see you here!</h2>
 
 - 💻 I’m currently learning about **Backend**
@@ -46,6 +42,10 @@
 - 📧 How to reach me? **Connect to me via Email [Abderrahmane](mailto:abderrahmanea091@gmail.com)**
 
 - ⚡ Fun fact: **I love to listen to music**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abderrahmaneee&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=FF6C00&text_color=000000&icon_color=FF6C00&locale=" align="right">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmaneee&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
 
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
