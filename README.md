@@ -11,9 +11,6 @@
 -->Bootstrap, Tailwind.<br>
 -->JavaScript, jQuery.<br>
 -->JS frameworks (including Vue.js, React.js).<br>
--->RESTful Services and APIs.<br>
--->100% mobile responsive and animation.<br>
--->source code and design that clean, fast, modern.<br>
 
 ⭐----> Back end<br>
 -->Development Languages: PHP, Node.<br>
