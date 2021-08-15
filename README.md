@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **HTML , CSS, JavaScript, React, Wordpress**
 
-- 📧 How to reach me? **Connect to me via Email [Abderrahmane](mailto:abderrahmanea091@gmail.com)**
-
 - ⚡ Fun fact: **I love to listen to music**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
