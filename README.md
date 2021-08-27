@@ -3,7 +3,6 @@
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
 <h2>Glad to see you here!</h2>
-<p>Hi, I'm Abderrahmane, a passionate FrontEnd developer & WordPress Expert .</p>
 
 - 💻 I’m currently learning about **Backend**
 
